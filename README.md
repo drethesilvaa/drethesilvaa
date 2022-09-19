@@ -63,26 +63,6 @@
 </a>
 </p>
 
-<h3 align="center">Working on:</h3>
-
-<p align="center">
-  <a href="https://github.com/drethesilvaa/MyPortfolio">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=drethesilvaa&repo=MyPortfolio&theme=tokyonight">
-    </img>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/drethesilvaa/mancala">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=drethesilvaa&repo=mancala&theme=tokyonight">
-    </img>
-  </a>
-</p>
 
 <h3 align="center">About me:</h3>
 
