@@ -84,11 +84,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/drethesilvaa/Monthly-and-Anual-Income-Managment">
+  <a href="https://github.com/drethesilvaa/Gerson">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=drethesilvaa&repo=Monthly-and-Anual-Income-Managment&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=drethesilvaa&repo=Gerson&theme=tokyonight">
     </img>
   </a>
 </p>
