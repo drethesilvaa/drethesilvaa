@@ -40,27 +40,9 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=drethesilvaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/drethesilvaa">
-    <img
-      align="center"
-      height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=drethesilvaa&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/drethesilvaa">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=drethesilvaa&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
 </p>
 
 
