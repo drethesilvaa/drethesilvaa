@@ -1,63 +1,41 @@
+<!-- Header -->
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=hello+world+%F0%9F%91%8B;UI%2FUX+%C2%B7+Frontend+Engineer;AI+integration+enthusiast)
 
-  <p align="center">
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-   <a href="https://nextjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
-   </a>
-   <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="https://www.electronjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://www.slack.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
-</p>
+# André Silva
+**UI/UX · Frontend Engineer · Portugal 🇵🇹**
 
-<h4 align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=87CEEB)](https://www.linkedin.com/in/andréssilva/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=87CEEB)](https://itswithandre.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=87CEEB)](https://github.com/drethesilvaa)
 
+</div>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi my name is Andre Silva</h1></img>
+---
 
-<p align="center">
-  <a href="https://github.com/drethesilvaa">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=drethesilvaa&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
+## About me
 
+I craft **interfaces that think** — bridging design thinking and engineering to build products people actually enjoy using. Passionate about AI-powered experiences, design systems, and turning complex problems into elegant solutions.
 
-<h3 align="center">About me:</h3>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andréssilva/">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
-  <a href="https://www.youtube.com/channel/UCwgCqvj9bkl8WqdSR2-CjKw">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
-    />
-  </a>
-</p>
+## Tech stack
+
+<div align="center">
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-4c50af?style=flat-square&logoColor=white)
+![Design Thinking](https://img.shields.io/badge/Design_Thinking-4c50af?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-87ceeb?style=flat-square&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+<sub>crafted with intention · portugal · 2025</sub>
+</div>
