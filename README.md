@@ -16,7 +16,7 @@
 
 ## About me
 
-I craft **interfaces that think** — bridging design thinking and engineering to build products people actually enjoy using. Passionate about AI-powered experiences, design systems, and turning complex problems into elegant solutions.
+I craft **interfaces that think**, bridging design thinking and engineering to build products people actually enjoy using. Passionate about AI-powered experiences, design systems, and turning complex problems into elegant solutions.
 
 ---
 
